@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/suprit2004/Leetcode-Problem/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/suprit2004/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/suprit2004/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/suprit2004/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/suprit2004/Leetcode-Problem/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/suprit2004/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/suprit2004/Leetcode-Problem/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -46,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/suprit2004/Leetcode-Problem/tree/master/0155-min-stack) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/suprit2004/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
