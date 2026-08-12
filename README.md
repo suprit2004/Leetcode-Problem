@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suprit2004/Leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/suprit2004/Leetcode-Problem/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suprit2004/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/suprit2004/Leetcode-Problem/tree/master/0217-contains-duplicate) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suprit2004/Leetcode-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/suprit2004/Leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/suprit2004/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/suprit2004/Leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/suprit2004/Leetcode-Problem/tree/master/0876-middle-of-the-linked-list) |
