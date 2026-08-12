@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suprit2004/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/suprit2004/Leetcode-Problem/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/suprit2004/Leetcode-Problem/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suprit2004/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/suprit2004/Leetcode-Problem/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/suprit2004/Leetcode-Problem/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
